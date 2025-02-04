@@ -3,7 +3,7 @@
 A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Challenge the computer, keep track of your score, and enjoy the fun animations.
 
 ## Live Demo
-[View Live Demo](#) 
+[View Live Demo](https://anant5441.github.io/StonePaperScissors/) 
 
 ## Features
 - User-friendly interface
